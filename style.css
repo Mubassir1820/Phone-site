@@ -52,7 +52,7 @@ logo img{
     top: 0;
     left: 0;
     border-radius: 50%;
-    background: #ccc;
+    transform: rotate(0deg);
 }
 .feature img{
     width: 70px;
@@ -97,6 +97,7 @@ logo img{
     right: 10%;
     top: 50%;
     transform: translateY(-50%);
+    text-align: center;
 }
 .controls h3{
     margin: 15px 0;
